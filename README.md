@@ -2,6 +2,8 @@
 
 > Report test results using unicorns
 
+![image](https://s3.amazonaws.com/cgarvis/KarmaUnicornReporter.png)
+
 ## Installation
 
 The easiest way is to keep `karma-unicorn-reporter` as a devDependency in your `package.json`.
