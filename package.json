@@ -18,7 +18,7 @@
   "author": "Christopher Garvis <cgarvis@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "karma": ">=0.9"
+    "karma": "~0.10"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
