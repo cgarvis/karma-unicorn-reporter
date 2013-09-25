@@ -1,6 +1,6 @@
 {
   "name": "karma-unicorn-reporter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma plugin. Report results with unicorns.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,17 @@
   "peerDependencies": {
     "karma": ">=0.9"
   },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.7",
+    "grunt-auto-release": "~0.0.2"
+  },
+  "bin": {
+    "unicornleap": "./unicornleap"
+  },
   "bugs": {
     "url": "https://github.com/cgarvis/karma-unicorn-reporter/issues"
-  }
+  },
+  "contributors": []
 }
