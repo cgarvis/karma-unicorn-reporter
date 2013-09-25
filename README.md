@@ -1,4 +1,4 @@
-# karma-growl-reporter
+# karma-unicorn-reporter
 
 > Report test results using unicorns
 
